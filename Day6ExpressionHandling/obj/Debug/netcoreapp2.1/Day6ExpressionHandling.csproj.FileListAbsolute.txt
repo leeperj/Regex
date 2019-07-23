@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\bin\Debug\netcoreapp2.1\Day6ExpressionHandling.deps.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\bin\Debug\netcoreapp2.1\Day6ExpressionHandling.runtimeconfig.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\bin\Debug\netcoreapp2.1\Day6ExpressionHandling.runtimeconfig.dev.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\bin\Debug\netcoreapp2.1\Day6ExpressionHandling.dll
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\bin\Debug\netcoreapp2.1\Day6ExpressionHandling.pdb
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.AssemblyInfo.cs
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.dll
+C:\Users\josep\source\repos\Day6ExpressionHandling\Day6ExpressionHandling\obj\Debug\netcoreapp2.1\Day6ExpressionHandling.pdb

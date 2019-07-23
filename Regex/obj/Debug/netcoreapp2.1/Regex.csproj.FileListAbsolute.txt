@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\bin\Debug\netcoreapp2.1\Regex.deps.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\bin\Debug\netcoreapp2.1\Regex.runtimeconfig.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\bin\Debug\netcoreapp2.1\Regex.runtimeconfig.dev.json
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\bin\Debug\netcoreapp2.1\Regex.dll
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\bin\Debug\netcoreapp2.1\Regex.pdb
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.AssemblyInfo.cs
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.dll
+C:\Users\josep\source\repos\Day6ExpressionHandling\Regex\obj\Debug\netcoreapp2.1\Regex.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6ExpressionHandling", "Day6ExpressionHandling\Day6ExpressionHandling.csproj", "{8651FECD-292A-4653-9E23-8CEC81E21EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "Regex\Regex.csproj", "{A6249C36-F284-4ACC-A27C-EA598522E66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8651FECD-292A-4653-9E23-8CEC81E21EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8651FECD-292A-4653-9E23-8CEC81E21EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8651FECD-292A-4653-9E23-8CEC81E21EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8651FECD-292A-4653-9E23-8CEC81E21EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6249C36-F284-4ACC-A27C-EA598522E66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6249C36-F284-4ACC-A27C-EA598522E66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6249C36-F284-4ACC-A27C-EA598522E66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6249C36-F284-4ACC-A27C-EA598522E66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BB1854-A5E3-479A-A9FF-926EB208F6AB}
+	EndGlobalSection
+EndGlobal
